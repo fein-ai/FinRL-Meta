@@ -13,7 +13,7 @@ setup(
     name="finrl-meta",
     version="0.3.6",
     author="Grant Fong",
-    author_email="hy2500@columbia.edu",
+    author_email="grant.fong@fein.ai",
     url="https://github.com/fein-ai/FinRL-Meta",
     license="MIT",
     install_requires=REQUIRES,
